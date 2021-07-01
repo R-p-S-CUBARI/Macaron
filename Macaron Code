@@ -1,0 +1,17 @@
+{
+  "title": "Macaron",
+  "description": "The Earth is being invaded by aliens. The super high school girl, Tachitsu Teto, who is the sole protector of Japan, does her best to kill the aliens before going to school every day. She is feared by those around her, and is a bit of an outcast at school. Then, on the day of her graduation from high school...",
+  "artist": "Mika Mikan",
+  "author": "Mika Mikan",
+  "cover": "https://i.imgur.com/WN1mpt5.jpg",
+  "chapters": {
+    "00": {
+      "title": "Special Oneshot",
+      "volume": "",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/l3fxqJH/"
+      },
+      "last_updated": "1625134757"
+    }
+  }
+}
